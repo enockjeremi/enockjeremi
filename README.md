@@ -25,7 +25,7 @@ Currently building **[Mekanbay](https://github.com/enockjeremi/mekanbay)** — a
 
 ## 🚀 Featured Projects
 
-### [Mekanbay](https://github.com/enockjeremi) *(in progress)*
+### [Mekanbay](https://github.com/enockjeremi/mekanbay) *(in progress)*
 Multi-tenant SaaS for automotive repair shops. Built with a Turborepo monorepo — NestJS backend, Next.js web app, and React Native mobile app.
 `NestJS` `Prisma` `PostgreSQL` `Next.js` `React Native` `Expo` `Turborepo`
 

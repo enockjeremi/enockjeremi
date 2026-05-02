@@ -2,7 +2,7 @@
 
 Automotive mechanic turned self-taught developer. I build full-stack web and mobile applications with a focus on clean architecture and real-world products.
 
-Currently building **[Mekanbay](https://github.com/enockjeremi)** — a multi-tenant SaaS platform for automotive repair shops, designed for Latin America.
+Currently building **[Mekanbay](https://github.com/enockjeremi/mekanbay)** — a multi-tenant SaaS platform for automotive repair shops, designed for Latin America.
 
 ---
 
